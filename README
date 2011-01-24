@@ -1,0 +1,4 @@
+Be in this directory when you generate the documentation.
+The paths in Doxyfile are relative to this directory.
+
+A subdir "html" will be created
